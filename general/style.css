@@ -1,0 +1,7 @@
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.row {
+    max-width: 1200px;
+}
