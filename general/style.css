@@ -1,9 +1,36 @@
 #cover {
     background-color: #e8e8e8;
-    padding-top: 15%;
-    padding-bottom: 90px;
+    
 }
 
-.navbar-collapse {
-    
+#cover-caption {
+    padding-top: 10%;
+    padding-bottom: 10%
+}
+
+#about {
+    padding-top: 3%;
+}
+
+#sponsors-section{
+    padding-top: 3%;
+}
+.sponsors {
+    text-align: center;
+}
+
+.sponsor-logo {
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    padding-top: 20px;
+}
+
+.sponsor-logo li{
+    display: inline-block;
+    padding-right: 30px;
+}
+
+#about-section {
+    padding-top: 5%;
 }
