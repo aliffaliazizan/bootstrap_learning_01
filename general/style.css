@@ -1,7 +1,9 @@
-.navbar-collapse {
-    justify-content: flex-end;
+#cover {
+    background-color: #e8e8e8;
+    padding-top: 15%;
+    padding-bottom: 90px;
 }
 
-.row {
-    max-width: 1200px;
+.navbar-collapse {
+    
 }
