@@ -54,7 +54,7 @@
 #form-section {
     background-color: #c3c3c3;
     padding-top: 60px;
-    padding-bottom: 60px;
+    padding-bottom: 30px;
 }
 
 .move-up {
@@ -78,4 +78,9 @@
     padding-top: 60px;
     padding-bottom: 40px;
     text-align: center;
+}
+
+#story-section {
+    padding-top: 60px;
+    padding-bottom: 40px;
 }
