@@ -1,6 +1,5 @@
 #cover {
     background-color: #e8e8e8;
-    
 }
 
 #cover-caption {
@@ -33,4 +32,21 @@
 
 #about-section {
     padding-top: 30px;
+}
+
+#detail-section {
+    background-color: #e8e8e8;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.icon-with-text {
+    margin-bottom: 5px;
+}
+
+.icon-inline {
+    line-height: 120%;
+    vertical-align: middle;
+    margin-top: -3px;
+    padding-right: 40px;
 }
