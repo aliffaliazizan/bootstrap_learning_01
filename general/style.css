@@ -90,3 +90,7 @@
     padding-top: 60px;
     padding-bottom: 20px;
 }
+
+#footer-section .footer-bottom p {
+    font-size: 85%;
+}
