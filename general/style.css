@@ -1,11 +1,33 @@
+/* Global */
+
+html, body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.white-label {
+    color: #fff;
+}
+
 #cover {
-    background-color: #e8e8e8;
+    background: #e52d27;  /* fallback for old browsers */ 
+    background: linear-gradient(to right, rgba(237, 27, 36, 0.92), rgba(237, 75, 27, 0.74)), url(img/top-bg.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    /*background-image: url(img/top-bg.jpg);*/
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
 }
 
 #cover-caption {
     padding-top: 10%;
     padding-bottom: 10%
 }
+
 
 #about {
     padding-top: 3%;
@@ -86,7 +108,8 @@
 }
 
 #footer-section {
-     background-color: #c3c3c3; 
+    background: #e52d27;  /* fallback for old browsers */ 
+    background: linear-gradient(to right, rgba(237, 27, 36, 1), rgba(237, 75, 27, 1)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
     padding-top: 60px;
     padding-bottom: 20px;
 }
